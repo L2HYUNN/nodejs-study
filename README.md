@@ -1,5 +1,5 @@
 # NodeJS Study
-<img src="./assets/node.js-logo.png" height="300px">
+<img src="./assets/node.js-logo.png" width="830px" height="400px">
 
 ## 소개
 NodeJs를 공부하며 작성한 코드를 기록합니다. 
